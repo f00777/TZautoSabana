@@ -1,0 +1,51 @@
+[2026-02-11 18:04:15] === INICIANDO BOT TURISMO ZAHR ===
+[2026-02-11 18:04:15] [PASO 1] Iniciando handshake (GET /)...
+[2026-02-11 18:04:16] --- Cookies recibidas en: Handshake Inicial ---
+[2026-02-11 18:04:16] [COOKIE] ASP.NET_SessionId = 04km3kf20kizqxayrbbvbonb
+[2026-02-11 18:04:16] -------------------------------------------
+[2026-02-11 18:04:16] [PASO 2] Enviando credenciales (POST)...
+[2026-02-11 18:04:16] [OK] Credenciales validas. ID Usuario: 61
+[2026-02-11 18:04:16] [PASO 3] Refrescando sesion para obtener Auth Cookie (GET /)...
+[2026-02-11 18:04:16] --- Cookies recibidas en: Refresh Final (Auth) ---
+[2026-02-11 18:04:16] -------------------------------------------
+[2026-02-11 18:04:16] >>> AUTENTICACION COMPLETA: Cookie .ASPXAUTH capturada.
+[2026-02-11 18:04:16] === SISTEMA LISTO ===
+[2026-02-11 18:04:16] Usuario 61 autenticado.
+[2026-02-11 18:04:16] [PASO 4] Descargando reporte CSV (01/01/2026 - 01/02/2026)...
+[2026-02-11 18:04:16] [URL] http://zahr.asinco.cl/DescargaCsv.aspx?parametros=sp_InfoReporteSabana%20%2701/01/2026%27%2C%2701/02/2026%27%2C%270%27%2C%270%27%2C61&info=ReporteSabana
+[2026-02-11 18:04:17] [OK] CSV guardado en: ReporteSabana/download_temp.csv (5,409,590 bytes)
+[2026-02-11 18:04:17] === DESCARGA EXITOSA, PROCESANDO ARCHIVO ===
+[2026-02-11 18:04:17] === SIN CAMBIOS DETECTADOS - OMITIENDO DB ===
+[2026-02-11 18:04:17] [INFO] No existe archivo previo. Creando ReporteSabana/ReporteSabana.csv
+[2026-02-11 18:04:17] === CERRANDO SESION ===
+[2026-02-11 18:04:17] [PASO 5] Cerrando sesion para usuario 61...
+[2026-02-11 18:04:17] [OK] Sesion cerrada correctamente.
+[2026-02-11 18:33:50] === INICIANDO BOT TURISMO ZAHR ===
+[2026-02-11 18:33:50] [PASO 1] Iniciando handshake (GET /)...
+[2026-02-11 18:33:50] --- Cookies recibidas en: Handshake Inicial ---
+[2026-02-11 18:33:50] [COOKIE] ASP.NET_SessionId = y1zpih4hop4wm0xiltftawg4
+[2026-02-11 18:33:50] -------------------------------------------
+[2026-02-11 18:33:50] [PASO 2] Enviando credenciales (POST)...
+[2026-02-11 18:33:50] [OK] Credenciales validas. ID Usuario: 61
+[2026-02-11 18:33:50] [PASO 3] Refrescando sesion para obtener Auth Cookie (GET /)...
+[2026-02-11 18:33:50] --- Cookies recibidas en: Refresh Final (Auth) ---
+[2026-02-11 18:33:50] -------------------------------------------
+[2026-02-11 18:33:50] >>> AUTENTICACION COMPLETA: Cookie .ASPXAUTH capturada.
+[2026-02-11 18:33:50] === SISTEMA LISTO ===
+[2026-02-11 18:33:50] Usuario 61 autenticado.
+[2026-02-11 18:33:50] [PASO 4] Descargando reporte CSV (01/01/2026 - 01/02/2026)...
+[2026-02-11 18:33:50] [URL] http://zahr.asinco.cl/DescargaCsv.aspx?parametros=sp_InfoReporteSabana%20%2701/01/2026%27%2C%2701/02/2026%27%2C%270%27%2C%270%27%2C61&info=ReporteSabana
+[2026-02-11 18:33:51] [OK] CSV guardado en: ReporteSabana/download_temp.csv (5,409,590 bytes)
+[2026-02-11 18:33:51] === DESCARGA EXITOSA, PROCESANDO ARCHIVO ===
+[2026-02-11 18:33:51] [INFO] Generado reporte de auditoría: ReporteSabana_Diff.csv (4044 filas)
+[2026-02-11 18:33:51] [INFO] Generado reporte de auditoría: ReporteSabana_Del.csv (1 filas)
+[2026-02-11 18:33:51] === CAMBIOS DETECTADOS - ACTUALIZANDO BASE DE DATOS ===
+[2026-02-11 18:33:51] [DB ERROR] Error de conexión: ('01000', "[01000] [unixODBC][Driver Manager]Can't open lib 'ODBC Driver 17 for SQL Server' : file not found (0) (SQLDriverConnect)")
+[2026-02-11 18:33:51] !!! No se pudo conectar a la DB.
+[2026-02-11 18:33:51] !!! Ocurrió un error. Guardando archivos como _ERR y cancelando actualización.
+[2026-02-11 18:33:51] [WARN] Archivo marcado como error: ReporteSabana_Diff_ERR_20260211_183351.csv
+[2026-02-11 18:33:51] [WARN] Archivo marcado como error: ReporteSabana_Del_ERR_20260211_183351.csv
+[2026-02-11 18:33:51] [WARN] Archivo principal guardado como error: ReporteSabana_ERR_20260211_183351.csv
+[2026-02-11 18:33:51] === CERRANDO SESION ===
+[2026-02-11 18:33:51] [PASO 5] Cerrando sesion para usuario 61...
+[2026-02-11 18:33:51] [OK] Sesion cerrada correctamente.
