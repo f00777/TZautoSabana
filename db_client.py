@@ -3,9 +3,9 @@ import pyodbc
 from logger import log_message
 
 class DBClient:
-    def __init__(self, server, database, user, password):
+    def __init__(self, server, database, user, password, driver="SQL Server"):
         self.conn_str = (
-            f"DRIVER={{ODBC Driver 17 for SQL Server}};"
+            f"DRIVER={{{driver}}};"
             f"SERVER={server};"
             f"DATABASE={database};"
             f"UID={user};"

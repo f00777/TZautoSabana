@@ -49,3 +49,101 @@
 [2026-02-11 18:33:51] === CERRANDO SESION ===
 [2026-02-11 18:33:51] [PASO 5] Cerrando sesion para usuario 61...
 [2026-02-11 18:33:51] [OK] Sesion cerrada correctamente.
+[2026-02-11 20:28:48] === INICIANDO BOT TURISMO ZAHR ===
+[2026-02-11 20:28:48] [PASO 1] Iniciando handshake (GET /)...
+[2026-02-11 20:28:48] --- Cookies recibidas en: Handshake Inicial ---
+[2026-02-11 20:28:48] [COOKIE] ASP.NET_SessionId = nhagpyslyyyx0gvv3kb1dhf3
+[2026-02-11 20:28:48] -------------------------------------------
+[2026-02-11 20:28:48] [PASO 2] Enviando credenciales (POST)...
+[2026-02-11 20:28:48] [FAIL] ERP rechazo login: Usuario no encontrado
+[2026-02-11 20:28:48] !!! Error fatal en login.
+[2026-02-11 20:29:02] === INICIANDO BOT TURISMO ZAHR ===
+[2026-02-11 20:29:02] [PASO 1] Iniciando handshake (GET /)...
+[2026-02-11 20:29:02] --- Cookies recibidas en: Handshake Inicial ---
+[2026-02-11 20:29:02] [COOKIE] ASP.NET_SessionId = ebewtx0dsfl3tmt54q0ijebu
+[2026-02-11 20:29:02] -------------------------------------------
+[2026-02-11 20:29:02] [PASO 2] Enviando credenciales (POST)...
+[2026-02-11 20:29:02] [OK] Credenciales validas. ID Usuario: 61
+[2026-02-11 20:29:02] [PASO 3] Refrescando sesion para obtener Auth Cookie (GET /)...
+[2026-02-11 20:29:02] --- Cookies recibidas en: Refresh Final (Auth) ---
+[2026-02-11 20:29:02] -------------------------------------------
+[2026-02-11 20:29:02] >>> AUTENTICACION COMPLETA: Cookie .ASPXAUTH capturada.
+[2026-02-11 20:29:02] === SISTEMA LISTO ===
+[2026-02-11 20:29:02] Usuario 61 autenticado.
+[2026-02-11 20:29:02] [PASO 4] Descargando reporte CSV (01/01/2026 - 01/02/2026)...
+[2026-02-11 20:29:02] [URL] http://zahr.asinco.cl/DescargaCsv.aspx?parametros=sp_InfoReporteSabana%20%2701/01/2026%27%2C%2701/02/2026%27%2C%270%27%2C%270%27%2C61&info=ReporteSabana
+[2026-02-11 20:29:05] [OK] CSV guardado en: ReporteSabana\download_temp.csv (5,409,590 bytes)
+[2026-02-11 20:29:05] === DESCARGA EXITOSA, PROCESANDO ARCHIVO ===
+[2026-02-11 20:29:05] === SIN CAMBIOS DETECTADOS - OMITIENDO DB ===
+[2026-02-11 20:29:05] [INFO] No existe archivo previo. Creando ReporteSabana\ReporteSabana.csv
+[2026-02-11 20:29:05] === CERRANDO SESION ===
+[2026-02-11 20:29:05] [PASO 5] Cerrando sesion para usuario 61...
+[2026-02-11 20:29:05] [OK] Sesion cerrada correctamente.
+[2026-02-11 20:34:30] === INICIANDO BOT TURISMO ZAHR ===
+[2026-02-11 20:34:30] [PASO 1] Iniciando handshake (GET /)...
+[2026-02-11 20:34:30] --- Cookies recibidas en: Handshake Inicial ---
+[2026-02-11 20:34:30] [COOKIE] ASP.NET_SessionId = xaexr2w25xecdx1vjysfirsd
+[2026-02-11 20:34:30] -------------------------------------------
+[2026-02-11 20:34:30] [PASO 2] Enviando credenciales (POST)...
+[2026-02-11 20:34:30] [OK] Credenciales validas. ID Usuario: 61
+[2026-02-11 20:34:30] [PASO 3] Refrescando sesion para obtener Auth Cookie (GET /)...
+[2026-02-11 20:34:30] --- Cookies recibidas en: Refresh Final (Auth) ---
+[2026-02-11 20:34:30] -------------------------------------------
+[2026-02-11 20:34:30] >>> AUTENTICACION COMPLETA: Cookie .ASPXAUTH capturada.
+[2026-02-11 20:34:30] === SISTEMA LISTO ===
+[2026-02-11 20:34:30] Usuario 61 autenticado.
+[2026-02-11 20:34:30] [PASO 4] Descargando reporte CSV (01/01/2026 - 01/02/2026)...
+[2026-02-11 20:34:30] [URL] http://zahr.asinco.cl/DescargaCsv.aspx?parametros=sp_InfoReporteSabana%20%2701/01/2026%27%2C%2701/02/2026%27%2C%270%27%2C%270%27%2C61&info=ReporteSabana
+[2026-02-11 20:34:32] [OK] CSV guardado en: ReporteSabana\download_temp.csv (5,409,590 bytes)
+[2026-02-11 20:34:32] === DESCARGA EXITOSA, PROCESANDO ARCHIVO ===
+[2026-02-11 20:34:33] [INFO] Generado reporte de auditoría: ReporteSabana_Diff.csv (4044 filas)
+[2026-02-11 20:34:33] [INFO] Generado reporte de auditoría: ReporteSabana_Del.csv (3 filas)
+[2026-02-11 20:34:33] === CAMBIOS DETECTADOS - ACTUALIZANDO BASE DE DATOS ===
+[2026-02-11 20:34:33] [DB ERROR] Error de conexión: ('IM002', '[IM002] [Microsoft][Administrador de controladores ODBC] No se encuentra el nombre del origen de datos y no se especificó ningún controlador predeterminado (0) (SQLDriverConnect)')
+[2026-02-11 20:34:33] !!! No se pudo conectar a la DB.
+[2026-02-11 20:34:33] !!! Ocurrió un error. Guardando archivos como _ERR y cancelando actualización.
+[2026-02-11 20:34:33] [WARN] Archivo marcado como error: ReporteSabana_Diff_ERR_20260211_203433.csv
+[2026-02-11 20:34:33] [WARN] Archivo marcado como error: ReporteSabana_Del_ERR_20260211_203433.csv
+[2026-02-11 20:34:33] [WARN] Archivo principal guardado como error: ReporteSabana_ERR_20260211_203433.csv
+[2026-02-11 20:34:33] === CERRANDO SESION ===
+[2026-02-11 20:34:33] [PASO 5] Cerrando sesion para usuario 61...
+[2026-02-11 20:34:33] [OK] Sesion cerrada correctamente.
+[2026-02-11 20:40:04] === INICIANDO BOT TURISMO ZAHR ===
+[2026-02-11 20:40:04] [PASO 1] Iniciando handshake (GET /)...
+[2026-02-11 20:40:04] --- Cookies recibidas en: Handshake Inicial ---
+[2026-02-11 20:40:04] [COOKIE] ASP.NET_SessionId = ud4veujmhezhf4bons13cq4k
+[2026-02-11 20:40:04] -------------------------------------------
+[2026-02-11 20:40:04] [PASO 2] Enviando credenciales (POST)...
+[2026-02-11 20:40:04] [OK] Credenciales validas. ID Usuario: 61
+[2026-02-11 20:40:04] [PASO 3] Refrescando sesion para obtener Auth Cookie (GET /)...
+[2026-02-11 20:40:04] --- Cookies recibidas en: Refresh Final (Auth) ---
+[2026-02-11 20:40:04] -------------------------------------------
+[2026-02-11 20:40:04] >>> AUTENTICACION COMPLETA: Cookie .ASPXAUTH capturada.
+[2026-02-11 20:40:04] === SISTEMA LISTO ===
+[2026-02-11 20:40:04] Usuario 61 autenticado.
+[2026-02-11 20:40:04] [PASO 4] Descargando reporte CSV (01/01/2026 - 01/02/2026)...
+[2026-02-11 20:40:04] [URL] http://zahr.asinco.cl/DescargaCsv.aspx?parametros=sp_InfoReporteSabana%20%2701/01/2026%27%2C%2701/02/2026%27%2C%270%27%2C%270%27%2C61&info=ReporteSabana
+[2026-02-11 20:40:05] [OK] CSV guardado en: ReporteSabana\download_temp.csv (5,409,590 bytes)
+[2026-02-11 20:40:05] === DESCARGA EXITOSA, PROCESANDO ARCHIVO ===
+[2026-02-11 20:40:06] [INFO] Generado reporte de auditoría: ReporteSabana_Diff.csv (4044 filas)
+[2026-02-11 20:40:06] [INFO] Generado reporte de auditoría: ReporteSabana_Del.csv (3 filas)
+[2026-02-11 20:40:06] === CAMBIOS DETECTADOS - ACTUALIZANDO BASE DE DATOS ===
+[2026-02-11 20:40:08] [DB] Conexión a base de datos exitosa.
+[2026-02-11 20:40:08] RUTA DIFF C:\Users\Gamers\Documents\turismo_zahr\TZautoSabana\ReporteSabana\ReporteSabana_Diff.csv
+[2026-02-11 20:40:08] RUTA DEL C:\Users\Gamers\Documents\turismo_zahr\TZautoSabana\ReporteSabana\ReporteSabana_Del.csv
+[2026-02-11 20:40:08] [DB] Ejecutando SP: EXEC sp_CargaSabanaCompleta 
+            @FechaInicio = '01/01/2026', 
+            @FechaTermino = '01/02/2026', 
+            @RutaArchivoDiff = 'C:\Users\Gamers\Documents\turismo_zahr\TZautoSabana\ReporteSabana\ReporteSabana_Diff.csv', 
+            @RutaArchivoDel = 'C:\Users\Gamers\Documents\turismo_zahr\TZautoSabana\ReporteSabana\ReporteSabana_Del.csv'
+[2026-02-11 20:40:08] [DB ERROR] Fallo durante la ejecución del SP:
+[2026-02-11 20:40:08] [SQL Error Details] [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]ERROR en sp_CargarCsvSigav: Cannot bulk load because the file "C:\Users\Gamers\Documents\turismo_zahr\TZautoSabana\ReporteSabana\ReporteSabana_Diff.csv" could not be opened. Operating system error code 3(The system cannot find the path specified.). (50000) (SQLExecDirectW); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]================================================== (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]>>> INICIO PIPELINE SABANA (Fase 1: DIFF + Fase 2: DEL) (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]>>> Periodo: 2026-01-01 al 2026-01-02 (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]================================================== (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]>>> [FASE 1] Iniciando carga de NOVEDADES (Diff)... (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server][1.1] Truncando tablas temporales... (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server][1.2] Cargando archivo Diff: C:\Users\Gamers\Documents\turismo_zahr\TZautoSabana\ReporteSabana\ReporteSabana_Diff.csv (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]>>> Iniciando carga masiva desde: C:\Users\Gamers\Documents\turismo_zahr\TZautoSabana\ReporteSabana\ReporteSabana_Diff.csv (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]>>> Destino: SabanaCompletaTransform (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]================================================== (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]!!! ERROR FATAL EN EL PIPELINE !!! (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Mensaje: ERROR en sp_CargarCsvSigav: Cannot bulk load because the file "C:\Users\Gamers\Documents\turismo_zahr\TZautoSabana\ReporteSabana\ReporteSabana_Diff.csv" could not be opened. Operating system error code 3(The system cannot find the path specified.). (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Paso Fallido: sp_CargarCsvSigav (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]Linea: 43 (0); [42000] [Microsoft][ODBC SQL Server Driver][SQL Server]================================================== (0)
+[2026-02-11 20:40:08] !!! La actualización en DB falló.
+[2026-02-11 20:40:08] [DB] Conexión cerrada.
+[2026-02-11 20:40:08] !!! Ocurrió un error. Guardando archivos como _ERR y cancelando actualización.
+[2026-02-11 20:40:08] [WARN] Archivo marcado como error: ReporteSabana_Diff_ERR_20260211_204008.csv
+[2026-02-11 20:40:08] [WARN] Archivo marcado como error: ReporteSabana_Del_ERR_20260211_204008.csv
+[2026-02-11 20:40:08] [WARN] Archivo principal guardado como error: ReporteSabana_ERR_20260211_204008.csv
+[2026-02-11 20:40:08] === CERRANDO SESION ===
+[2026-02-11 20:40:08] [PASO 5] Cerrando sesion para usuario 61...
+[2026-02-11 20:40:08] [OK] Sesion cerrada correctamente.

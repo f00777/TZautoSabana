@@ -31,6 +31,9 @@ def main():
     DB_NAME = os.getenv("DB_NAME")
     DB_USER = os.getenv("DB_USER")
     DB_PASS = os.getenv("DB_PASS")
+    DB_DRIVER = os.getenv("DB_DRIVER", "SQL Server")
+    DB_PATH_DIFF = os.getenv("DB_PATH_DIFF")
+    DB_PATH_DEL = os.getenv("DB_PATH_DEL")
 
     bot = ERPClient()
 
@@ -69,14 +72,14 @@ def main():
             success = True
             if diff_paths['diff'] or diff_paths['del']:
                 log_message("=== CAMBIOS DETECTADOS - ACTUALIZANDO BASE DE DATOS ===")
-                db = DBClient(DB_SERVER, DB_NAME, DB_USER, DB_PASS)
+                db = DBClient(DB_SERVER, DB_NAME, DB_USER, DB_PASS, DB_DRIVER)
                 if db.connect():
-                    # Obtener rutas absolutas para el SP
-                    path_diff = os.path.abspath(diff_paths['diff']) if diff_paths['diff'] else None
-                    path_del = os.path.abspath(diff_paths['del']) if diff_paths['del'] else None
+                    # Usar rutas del .env (accesibles desde el SQL Server remoto)
+                    path_diff = DB_PATH_DIFF if diff_paths['diff'] else None
+                    path_del = DB_PATH_DEL if diff_paths['del'] else None
 
-                    log_message("RUTA DIFF " + path_diff )
-                    log_message("RUTA DEL " + path_del )
+                    log_message(f"RUTA DIFF: {path_diff}")
+                    log_message(f"RUTA DEL: {path_del}")
                     
                     if not db.execute_sp_carga(FECHA_INICIO, FECHA_TERMINO, path_diff, path_del):
                         success = False
