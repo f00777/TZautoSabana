@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """
 Bot Turismo Zahr - Punto de entrada.
+Se ejecuta en loop cada N minutos (configurable en .env).
 """
 
 import sys
 import os
+import time
+from datetime import datetime
 from erp_client import ERPClient
 from file_manager import FileManager
 from db_client import DBClient
@@ -12,15 +15,18 @@ from logger import log_message
 from dotenv import load_dotenv
 
 
-def main():
-    load_dotenv()
+def run_cycle():
+    """Ejecuta un ciclo completo: descarga, compara, y actualiza DB.
+    Retorna True si fue exitoso, False si hubo error.
+    """
+    load_dotenv(override=True)  # override=True para releer cambios en .env
     # IMPORTANTE: Usa las credenciales reales aquí
     USER = os.getenv("ERP_USER")
     PASS = os.getenv("ERP_PASS")
 
-    # Fechas del reporte (formato DD/MM/YYYY)
-    FECHA_INICIO = "01/01/2026"
-    FECHA_TERMINO = "01/02/2026"
+    # Fechas del reporte (formato DD/MM/YYYY) - desde .env
+    FECHA_INICIO = os.getenv("FECHA_INICIO")
+    FECHA_TERMINO = os.getenv("FECHA_TERMINO")
     
     # Nombres de archivo
     TEMP_FILENAME = "download_temp.csv"
@@ -41,12 +47,12 @@ def main():
 
     # 1. Handshake inicial
     if not bot.init_session():
-        sys.exit(1)
+        return False
 
     # 2. Proceso de Login completo (Post + Refresh)
     if not bot.login(USER, PASS):
         log_message("!!! Error fatal en login.")
-        sys.exit(1)
+        return False
 
     try:
         log_message("=== SISTEMA LISTO ===")
@@ -110,14 +116,56 @@ def main():
             
         else:
             log_message("!!! Error al descargar reporte.")
-            sys.exit(1)
+            return False
 
     finally:
         # 4. Cerrar sesion
         log_message("=== CERRANDO SESION ===")
         bot.logout()
 
+        # 5. Limpieza: mantener máximo 15 archivos en la carpeta
+        FileManager.cleanup_old_files("ReporteSabana", max_files=15)
+
+    return True
+
+
+def main():
+    """Loop principal: ejecuta run_cycle() cada N minutos."""
+    load_dotenv()
+    intervalo = int(os.getenv("INTERVALO_MINUTOS", "10"))
+
+    log_message(f"========================================")
+    log_message(f"  BOT TURISMO ZAHR - MODO AUTOMATICO")
+    log_message(f"  Intervalo: cada {intervalo} minutos")
+    log_message(f"  Iniciado: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}")
+    log_message(f"  Presiona Ctrl+C para detener")
+    log_message(f"========================================")
+
+    ciclo = 1
+    while True:
+        log_message(f"")
+        log_message(f">>>>>>>>>> CICLO #{ciclo} - {datetime.now().strftime('%d/%m/%Y %H:%M:%S')} <<<<<<<<<<")
+        try:
+            resultado = run_cycle()
+            if resultado:
+                log_message(f"[CICLO #{ciclo}] Completado exitosamente.")
+            else:
+                log_message(f"[CICLO #{ciclo}] Finalizado con errores.")
+        except KeyboardInterrupt:
+            raise
+        except Exception as e:
+            log_message(f"[CICLO #{ciclo}] ERROR INESPERADO: {e}")
+
+        log_message(f"[ESPERA] Próximo ciclo en {intervalo} minutos...")
+        try:
+            time.sleep(intervalo * 60)
+        except KeyboardInterrupt:
+            log_message("")
+            log_message("=== BOT DETENIDO POR EL USUARIO ===")
+            sys.exit(0)
+
+        ciclo += 1
+
 
 if __name__ == "__main__":
     main()
-

@@ -325,3 +325,36 @@ class FileManager:
             log_message(f"[WARN] Archivo principal guardado como error: {err_filename}")
         except OSError as e:
             log_message(f"[ERROR] No se pudo guardar archivo de error: {e}")
+
+    @staticmethod
+    def cleanup_old_files(target_dir: str, max_files: int = 15):
+        """
+        Mantiene un máximo de N archivos en el directorio.
+        Elimina los más antiguos (por fecha de modificación) cuando se excede el límite.
+        """
+        if not os.path.exists(target_dir):
+            return
+
+        # Listar solo archivos (no subdirectorios)
+        files = []
+        for f in os.listdir(target_dir):
+            full_path = os.path.join(target_dir, f)
+            if os.path.isfile(full_path):
+                files.append(full_path)
+
+        if len(files) <= max_files:
+            return
+
+        # Ordenar por fecha de modificación (más antiguo primero)
+        files.sort(key=lambda x: os.path.getmtime(x))
+
+        # Calcular cuántos hay que eliminar
+        to_delete = len(files) - max_files
+        log_message(f"[CLEANUP] {len(files)} archivos en {target_dir} (máximo: {max_files}). Eliminando {to_delete} archivo(s) antiguo(s)...")
+
+        for filepath in files[:to_delete]:
+            try:
+                os.remove(filepath)
+                log_message(f"[CLEANUP] Eliminado: {os.path.basename(filepath)}")
+            except OSError as e:
+                log_message(f"[CLEANUP ERROR] No se pudo eliminar {os.path.basename(filepath)}: {e}")
