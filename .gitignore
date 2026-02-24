@@ -2,3 +2,4 @@ venv
 .env
 ReporteSabana
 __pycache__
+logs.txt
