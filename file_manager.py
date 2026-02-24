@@ -171,7 +171,28 @@ class FileManager:
         final_path = os.path.join(target_dir, target_filename)
         
         if not os.path.exists(final_path):
-            return {'diff': None, 'del': None}
+            # No hay archivo previo: todas las filas son nuevas → generar Diff completo
+            log_message("[INFO] No existe archivo base previo. Todas las filas se tratarán como NUEVAS (Diff completo).")
+            try:
+                delimiter = ';'
+                with open(new_file_path, "r", encoding="utf-8", newline='') as f:
+                    reader = csv.reader(f, delimiter=delimiter)
+                    try:
+                        header = next(reader)
+                    except StopIteration:
+                        return {'diff': None, 'del': None}
+                    all_rows = list(reader)
+
+                paths = {'diff': None, 'del': None}
+                if all_rows:
+                    base_name = os.path.splitext(target_filename)[0]
+                    diff_name = f"{base_name}_Diff.csv"
+                    FileManager._save_audit_file(all_rows, target_dir, diff_name, header, delimiter)
+                    paths['diff'] = os.path.join(target_dir, diff_name)
+                return paths
+            except Exception as e:
+                log_message(f"[ERROR] Falló generación de Diff inicial: {e}")
+                return {'diff': None, 'del': None}
 
         try:
             # Leer archivo viejo

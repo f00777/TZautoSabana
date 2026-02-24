@@ -1,0 +1,5344 @@
+{
+    "d": [
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "",
+            "Value": "0"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "adm_tmp",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "adm_tmp2",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmCierreGrupo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmCierreNegocio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmCobranza",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmCobranzaDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmCobranzaEstadistica",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmComision",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmComisionAjuste",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmComisionDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFacturaCliente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFacturaGlosa",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFacturaGlosaLine",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFacturaMacro",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFacturaMacroDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFacturaMicro",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFacturaMicroDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFacturaPagoWeb",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFacturaPagoWebEstado",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFacturaProveedorAereo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFacturaProveedorTerrestre",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFacturasPagadas",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmFeeRangoFacturacion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmNcCerrado",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmNcCerradoDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmNcNDCliente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmNcNDProveedorAereo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmNcNDProveedorTerrestre",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmNcPendiente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmNcPendienteDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmPagos",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmReporteContable",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmTipoAccionCobranza",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmTipoAjusteComision",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmTipoCobranza",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmTipoFactura",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmTipoGlosafactura",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmTipoImpuesto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmTipoImpuestoPeriodo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmTipoIva",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AdmTipoNcNd",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AerAeropuerto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AerCabina",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AerClase",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AerCodigoIata",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AerCodigoIataError",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AerComisionesAereas",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AerPerfilAir",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AerPerfilCliente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AerTarifaAerea",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AerTipoClase",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "AjustesBSP",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "BspDiferenciasContable",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "BspSubTipoAjuste",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "BspSubTipoAjusteContable",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "BspTipoAjuste",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "CentroCostos_S1S2",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieCentroCosto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieCliente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieClientenegfee",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieClienteVendedora",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieContacto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "cliedestinosfee",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "cliedestinosfeedetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieDestinosFeeFetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieDiasPlazo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieEstado",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieFee",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieGrupoCliente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieHolding",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieModoPagoFee",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieNacionalFee",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "CliePasajero",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "CliePasajerosTetra",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "CliePasajerosTetra_old",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "CliePasajerosTetra_old2",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieProyecto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "CliePurposeTrip",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieReasonCode",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieSubCentroCosto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieTarifa",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieTipoCliente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieTipoContacto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ClieTipoFinSemana",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ComisionClieCliente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ComisionMaeSucursal",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ComisionProdSubProducto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ComisionVacaciones",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ComisionVendVendedora",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ComParametro",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ComPlazoPago",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ComTipo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ComTipoAjuste",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ComTipoPago",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ComTipoServicio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ComVacaciones",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "cuerpo2",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "DevDevoluciones",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "DevDevolucionesDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "DevTipoDevoluciones",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "DocSubTipo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "DocTipo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "FacturasPagadas",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "FinBanco",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "FinCuentaCorriente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "FinMoneda",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "FinSubTipoPago",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "FinTarjetaCredito",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "FinTipoCambio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "FinTipoGlosa",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "FinTipoPago",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GeoCiudad",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GeoComuna",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GeoPais",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GeoSubZona",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GeoZonas",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruCierreGrupo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruCostos",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruCotizacion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruCotizacionAuditoria",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruCotizacionDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruCotizacionEnvio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruDestinoGrupo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruEnvioCompetencia",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruEnvioEstado",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruEnvioRespuesta",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruEstadoPago",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruEstadoPrePago",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruGrupoAuditoria",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruGrupos",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruGruposDoc",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruNegPrePagos",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruPagos",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruPagosDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruPagosExterno",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruPasajeros",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruPaxSernatur",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruPerfilResumen",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruPlantilla",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruPlantillaAuditoria",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruPlantillaDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruPrePagos",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruTarifas",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruTemporadaSernatur",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruTipoCosto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruTipoCotizacion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruTipoCotizacionDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruTipoGrupo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruTipoPago",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruTkt",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruValidaciones",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "GruVentas",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "MaeDepartamento",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "MaeDepartamentoServicio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "MaeDirecciones",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "MaeEmpresa",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "MaeLineaNegocio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "MaeRelacionBackOffice",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "MaeRubro",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "MaeSucursal",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "menu",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "menu2",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "menu3",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "NegComision",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "NegComisionDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "NegFee",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "NegociacionesClientesOver",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "NegociacionesClientesOverMercado",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "NegOver",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "NegTipoDesdeHasta",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "NotasCreditoDebito",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeAereoEmitidos",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeAereoPorEmitir",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeAutorizacionEmitidos",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeAutorizacionPorEmitir",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCierreAdm",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoAereoCerrado",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoAereoCerradoAjuste",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoAereoCerradoTkt",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoAereoPendiente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoAereoPendienteAjuste",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoAereoPendienteTkt",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoComisionCerrado",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoComisionCerradoAjuste",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoComisionCerradoDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoComisionPendiente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoComisionPendienteAjuste",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoComisionPendienteDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoEstadoTerrestreCerrado",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoTerrestreCerrado",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoTerrestreCerradoAjuste",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoTerrestreCerradoNc",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoTerrestreCerradoVoucher",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoTerrestrePendiente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoTerrestrePendienteAjuste",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeCostoTerrestrePendienteVoucher",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeEstadoAdm",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeFechasBsp",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeMargen",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeOficina",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeProcesoAdm",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeSubTipoAJusteCosto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeTerrestreEmitidos",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeTerrestrePorEmitir",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeTipoAjusteCosto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeTipoCobro",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "OpeTipoDocContable",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "orden",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "pepe2",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "pepe25",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProcEstado",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProcProceso",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProcRol",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProcRolUsuario",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProcTarea",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProcTipoProceso",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProcTipoTarea",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdCadena",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdCategoria",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdHabitacion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdHotel",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdPlanAlimenticio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdProducto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdPrograma",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdServicio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdSubProducto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdSubProductoComision",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdSubProductoProveedor",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdTarifaHotel",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdTarifaPrograma",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdTarifaServicio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdTipoCadena",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdTipoCategoria",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdTipoHabitacion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdTipoInterfaz",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdTipoProducto",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdTipoPrograma",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdTipoServicio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProdTipoTarifa",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProvEstado",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProvHolding",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProvProveedores",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProvTipoAjuste",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProvTipoCostos",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ProvTipoProveedores",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "RegExepcionBloquearServicio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "RegExepcionEliminarServicio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ReporteAutomatico",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ReporteBaseCorporativo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ReporteBaseCorporativoOLD",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ReporteCobranzaKpi",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ReportePeriodo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ReporteSabana",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ReporteVentaContableKpi",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ReporteVentasGeneral",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ReporteVentasKpi",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "respacaldoZyscampoCliente",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SegFiltro",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SegIntegridadEliminar",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SegMensajes",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SegModulo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SegPerfil",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SegPerfilModulo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SegTipoKpi",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SegUsuario",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SEGUSUARIO_xls_aux",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SegusuarioCreaGrupo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SegUsuarioIntegridad",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SegUsuarioLineaNegocio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "Solomon_table",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "sysdiagrams",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "SysTablaProceso",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "TempAreilo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "TempAreilo1",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "TempAreilo2",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "TempCarte",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "TempCarte2",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "TempCarte3",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "TempCorte",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "TempTest",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "TempTest2",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "test",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "TipoReporteSabana",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "variable",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VendPerfilComision",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VendTipoVendedora",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VendVendedora",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VenEstado",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaADM",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaBusquedaTarifa",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaConfirmacion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaCotizacion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaCotizacionNew",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaDetalleCotizacion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaDevolucion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaEstadoCotizacionNew",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaImagen",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaNegocio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaNegocioAutorizaciones",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaNegocioContabilidad",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaNegocioCorporativo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaNegocioDescuento",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaNegocioDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaNegocioDoc",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaNegocioFacturacion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaNegocioFee",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaNegocioTkt",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaNegocioTraspaso",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaNegocioVoucher",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaReclamo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaReEmision",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaReglaNegocio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaReglaNegocioMotivo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaSolicitud",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaTipoADM",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaTipoCotizacion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaTipoDevolucion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaTipoNegocio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaTipoReclamo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaTipoReEmision",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaTipoSolicitud",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "VentaVouvher",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "voucherpaso",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "xls_amadeus_pmc",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "xls_clientes",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "xls_Iata_Aerolineas",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "xls_usuarios_zhar",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysBoton",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysBotonEjecucion",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysBotonEjecucion_2",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "zyscampo",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysConfig",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysConfigmail",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysDetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysExpresionRegular",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "zysFormulario_std",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysIntegridad",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysLogAcceso",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysLogError",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysMainMenu",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysMenu",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysMenu_3",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysMenu2",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysNombreCampoSP",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysNombreCampoSP2",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysOrden",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysPanel",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysReglaNegocio",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysSubMainMenu",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "zystabla",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysTabla_old",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "zystabladetalle",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysTablaMaestro",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "ZysTraspasoClieClienteVendedora",
+            "Value": "1"
+        },
+        {
+            "Attributes": {
+                "Keys": [],
+                "Count": 0,
+                "CssStyle": {
+                    "Keys": [],
+                    "Count": 0,
+                    "Value": null
+                }
+            },
+            "Enabled": true,
+            "Selected": false,
+            "Text": "zysTraspasoSigav1",
+            "Value": "1"
+        }
+    ]
+}

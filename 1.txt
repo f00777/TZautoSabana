@@ -1,0 +1,31 @@
+id venta negocio 
+54406
+
+idventanegociodetalle
+249638
+
+
+{
+  "id_padre": "0",
+  "tabla": "ProvProveedores",
+  "filtro": "FROM (SELECT 1 as IdProvProveedores, t2.name as nombreTabla FROM (SELECT name FROM sys.tables) as t2 ) as P2 --",
+  "campo": "nombreTabla",
+  "accion": "5"
+}
+
+
+
+
+idventanegocio
+54174
+
+idventanegociodetalle
+249670
+
+
+
+
+empresas de las que se pueden descargar reportes:
+deltour
+sigav
+
